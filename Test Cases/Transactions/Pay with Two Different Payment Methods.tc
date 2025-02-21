@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay with Two Different Payment Methods</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d931414-69d5-4463-9d10-18e9e5cd04a1</testCaseGuid>
+</TestCaseEntity>

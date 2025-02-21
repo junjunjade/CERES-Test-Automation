@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Button</value>
-      <webElementGuid>a119799b-f4c2-49e8-b3e0-5028fd5eeb8d</webElementGuid>
+      <webElementGuid>4e19d0dc-9224-407a-a73b-c50c798ebd34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>de8ea9db-9d9d-4ad1-9dab-b86c841b77bf</webElementGuid>
+      <webElementGuid>37cc6294-d569-426a-816a-0a85fe2a9be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LOG OUT</value>
-      <webElementGuid>0860763b-3a8d-4a0d-8d87-0a8563d23114</webElementGuid>
+      <webElementGuid>778762bd-4cd0-4cb9-a2ea-a0334f57814e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android:id/button_exit</value>
-      <webElementGuid>c9aa2c48-80b0-4228-8b2a-d2282f57bf1b</webElementGuid>
+      <webElementGuid>c364ac71-252b-4cae-8984-a92a4b54f7c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>e4fdb6f1-8a20-4804-8d2d-88efff4ce09c</webElementGuid>
+      <webElementGuid>dae443d5-b4c0-467d-8285-aeb4829d1c2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d5438c67-0b78-41f5-9df0-e3effe231d80</webElementGuid>
+      <webElementGuid>c0c700f9-2ef5-49ba-988a-9ccc08d6c6d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c4fefe02-788a-498a-abbd-709def06a088</webElementGuid>
+      <webElementGuid>0b8d397c-7357-4d7b-a60c-8a840426f1a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e9831a65-a065-4ef2-8734-d1d71d4c8293</webElementGuid>
+      <webElementGuid>ccc1bc3f-a224-40c8-a0c0-761b079c8aee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>24dd43aa-cdce-4e95-8a76-c7ba9de73c91</webElementGuid>
+      <webElementGuid>a7ed7fb6-19f7-4fd0-9588-b1c05ec2c024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f53a2d8b-30ce-448d-adfa-cd81149a9518</webElementGuid>
+      <webElementGuid>49f57c3e-52ff-45a1-bfe8-b9601ee9ff22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ca52987f-501b-4ed7-afd2-bc68fa9de86d</webElementGuid>
+      <webElementGuid>1de8369e-adba-416b-b413-256672695ee4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4b0fb898-55e3-4573-89b9-a8db41deff9d</webElementGuid>
+      <webElementGuid>925a1ff7-17db-46db-9132-9b39225a7cc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>79831a2d-e52e-4aa9-bd83-987e125655c6</webElementGuid>
+      <webElementGuid>511bf1e1-91fe-43cd-a754-1e5637154177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5a8f351c-0215-4fc3-b003-2d7657df0180</webElementGuid>
+      <webElementGuid>f93cf44d-9172-41de-9842-2243ea5c8151</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>049519fb-e422-48e0-91fb-c26f22662404</webElementGuid>
+      <webElementGuid>fcb3f47d-f3bb-478f-919e-ba399d1b8232</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c55b5a20-ea33-4b54-814c-8ebba99b4f5b</webElementGuid>
+      <webElementGuid>7355ebbc-f385-4e27-a3d4-e91b687e9370</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>y</name>
       <type>Main</type>
       <value>561</value>
-      <webElementGuid>abac694b-2c0d-4715-9029-32629d627069</webElementGuid>
+      <webElementGuid>6ee5dadf-c951-4fdb-9793-c7dc0006e64a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>width</name>
       <type>Main</type>
       <value>200</value>
-      <webElementGuid>578a88a6-c71e-468f-8f50-06595e2a181b</webElementGuid>
+      <webElementGuid>9d696fe1-3e79-455e-82c6-214c9d368ffd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>height</name>
       <type>Main</type>
       <value>150</value>
-      <webElementGuid>3509be07-4db6-419d-9b4d-34491fad870b</webElementGuid>
+      <webElementGuid>624fccfd-9b74-41d1-bdef-492819ea9d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[0,561][200,711]</value>
-      <webElementGuid>2c118d97-4be9-4400-be69-995cf77f278c</webElementGuid>
+      <webElementGuid>2a0e07ce-0ffc-4a21-acba-8177403dc637</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4f51ac47-6eb3-4332-a6fb-9bcb87d2587d</webElementGuid>
+      <webElementGuid>d3a22c89-a2a3-4562-8eb1-2699491b255c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,57 +181,50 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.Button[2]</value>
-      <webElementGuid>2947c52a-0f87-44c4-9d3e-ddbfbd83fbb8</webElementGuid>
+      <webElementGuid>b7caa41b-89a5-411f-86d5-26e3337efbd4</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.Button' and (@text = 'LOG OUT' or . = 'LOG OUT') and @resource-id = 'com.jimac.tsceres_android:id/button_exit']</locator>
    <locatorCollection>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>android.widget.Button</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.Button[2]</value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;LOG OUT&quot;).resourceId(&quot;com.jimac.tsceres_android:id/button_exit&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
-      </entry>
-      <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
-         <key>ID</key>
-         <value>com.jimac.tsceres_android:id/button_exit</value>
+         <key>CUSTOM</key>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
          <value>//*[@class = 'android.widget.Button' and (@text = 'LOG OUT' or . = 'LOG OUT') and @resource-id = 'com.jimac.tsceres_android:id/button_exit']</value>
       </entry>
       <entry>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.Button[2]</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;LOG OUT&quot;).resourceId(&quot;com.jimac.tsceres_android:id/button_exit&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.jimac.tsceres_android:id/button_exit</value>
+      </entry>
+      <entry>
          <key>ACCESSIBILITY</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

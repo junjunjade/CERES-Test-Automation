@@ -19,12 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\Ritch\\Desktop\\Echo Test\\APKs\\TSCeres 2025\\16.0.0.0.40.91.apk', true)
 
-Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Usercode'), '000000', 0)
+Mobile.setText(findTestObject('Object Repository/Login Page/android.widget.EditText - Usercode'), '000000', 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/Transactions/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 
-    0)
+Mobile.setEncryptedText(findTestObject('Object Repository/Login Page/android.widget.EditText - Password'), 'tzH6RvlfSTg=',
+	0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - POS'), 0)
+Mobile.tap(findTestObject('Object Repository/Login Page/android.widget.Button - POS'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - BLACK COFFEE'), 0)
 
@@ -32,10 +32,19 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CARBONARA'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - NEXT'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PAYMENT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUSPEND TRANSACTION'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PAYMENT LOOKUP'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OKAY - SUSPEND TRANSACTION'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CASH'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 2'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 1'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 0'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SETTLEMENT'), 0)
 
 Mobile.closeApplication()
+

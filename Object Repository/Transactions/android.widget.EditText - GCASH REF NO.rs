@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.Button - remove</name>
+   <name>android.widget.EditText - GCASH REF NO</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,24 +12,24 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.Button</value>
-      <webElementGuid>f6a2d3b0-0432-48b2-a4d5-fc9010f216fb</webElementGuid>
+      <value>android.widget.EditText</value>
+      <webElementGuid>ebd8ece3-d46a-4dc6-9b1b-bfd8ce116465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>4</value>
-      <webElementGuid>bb3d819f-c343-42d7-a397-9051b3c68f1e</webElementGuid>
+      <value>0</value>
+      <webElementGuid>363c0bcd-e29c-4474-8020-36e335f10524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.jimac.tsceres_android:id/buttonRemoveItem</value>
-      <webElementGuid>e3bd9fb5-dcdd-4c3a-92b7-62b083cbbb61</webElementGuid>
+      <value>com.jimac.tsceres_android:id/et_paymentDetails_fieldValue1</value>
+      <webElementGuid>3ecf886e-86fe-41f1-801b-7549f4d50797</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>b7cd4023-2b7e-41d9-b68b-b43cbf42bac3</webElementGuid>
+      <webElementGuid>38183131-bd80-47d6-a8cc-aac9489fa749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f771f375-2e10-4487-9612-8b947de4230d</webElementGuid>
+      <webElementGuid>35fe1682-1e0a-4558-be7b-69c24838a439</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2a9c889f-0573-4775-a03a-1568df689995</webElementGuid>
+      <webElementGuid>26e0e6b4-c8b6-4346-9d72-6ec296c07067</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8d6d9aaf-550e-4127-b044-38af4d150210</webElementGuid>
+      <webElementGuid>dc340dde-bbea-4187-9968-39f5038960a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>351b0fed-b95f-413b-9704-db91c285a5c6</webElementGuid>
+      <webElementGuid>3abca6f7-fe0e-4c86-bba0-6d5c90b464b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,15 +77,15 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c07e3ec4-e9c5-43cf-8d0e-13ad30e5cd61</webElementGuid>
+      <webElementGuid>906e93af-45b0-4cb4-9be8-b059f85c6b5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focused</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>449b8a39-9358-4f5c-ad7c-55cf65ba0c0d</webElementGuid>
+      <value>true</value>
+      <webElementGuid>27f47319-2eda-46e5-af16-c37af2c31a86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6e474bf3-2596-433c-ae24-176bb5bfcbf5</webElementGuid>
+      <webElementGuid>684507df-75a7-436e-b856-dcbf362c284a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>b64600cb-6632-48ec-b893-f8724e03dc8b</webElementGuid>
+      <value>true</value>
+      <webElementGuid>9b207f8c-3504-4068-8b83-ca1b6561905b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2ca1125a-f2e1-429d-b9f5-b9c305925c39</webElementGuid>
+      <webElementGuid>7217b0d7-83d0-495d-b082-6d5ac2ae7f05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,47 +117,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a51ee01d-3523-4607-b92c-810417176b75</webElementGuid>
+      <webElementGuid>fddbb96f-13e5-4ab8-94d3-c85cd8e54c75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>605</value>
-      <webElementGuid>07777f65-788d-4486-a6ab-9fe0dea3e0d3</webElementGuid>
+      <value>231</value>
+      <webElementGuid>cf3a8147-77fd-4afc-bc41-16597aa5e7f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>95</value>
-      <webElementGuid>1174f9b2-62b2-4aa8-90ba-dadb847274c3</webElementGuid>
+      <value>297</value>
+      <webElementGuid>3607aca5-42b5-409b-a7c9-fb7a8692bf64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>35</value>
-      <webElementGuid>046c9317-fe2c-4727-93da-04667ea13be1</webElementGuid>
+      <value>1017</value>
+      <webElementGuid>11d1cf41-821b-4cb8-a13b-284e4849da61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>35</value>
-      <webElementGuid>680521d4-70a6-4920-b022-9a1aa0475dc0</webElementGuid>
+      <value>54</value>
+      <webElementGuid>c543bd76-04de-42cf-89f6-6e55d7376d52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[605,95][640,130]</value>
-      <webElementGuid>e7f9637d-47f2-4536-aea0-c050048adedd</webElementGuid>
+      <value>[231,297][1248,351]</value>
+      <webElementGuid>3c7acdf9-145f-490a-a27a-6c4fad33b39d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5db4fff0-733c-416f-ae15-ef0edebb9137</webElementGuid>
+      <webElementGuid>39edd71f-6099-40a5-a4da-2288ca995312</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -173,24 +173,24 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>c17aea5d-4dcd-4a4c-94aa-1636b07b92f3</webElementGuid>
+      <webElementGuid>7dd36722-1449-4a54-93da-6460c3aa15f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[1]/android.widget.Button[1]</value>
-      <webElementGuid>9c230aa8-2b16-4f86-9c1e-93f9d5c4986c</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
+      <webElementGuid>872b6f61-e18e-46a1-9ad8-8084ade471f5</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and @resource-id = 'com.jimac.tsceres_android:id/buttonRemoveItem' and (@text = '' or . = '')]</locator>
+   <locator>//*[@class = 'android.widget.EditText' and @resource-id = 'com.jimac.tsceres_android:id/et_paymentDetails_fieldValue1' and (@text = '' or . = '')]</locator>
    <locatorCollection>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+         <key>CLASS_NAME</key>
+         <value>android.widget.EditText</value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>ANDROID_VIEWTAG</key>
          <value></value>
       </entry>
       <entry>
@@ -198,39 +198,39 @@
          <value></value>
       </entry>
       <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.Button</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.EditText' and @resource-id = 'com.jimac.tsceres_android:id/et_paymentDetails_fieldValue1' and (@text = '' or . = '')]</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
          <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[1]/android.widget.Button[1]</value>
-      </entry>
-      <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).resourceId(&quot;com.jimac.tsceres_android:id/buttonRemoveItem&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(4)</value>
+         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).resourceId(&quot;com.jimac.tsceres_android:id/et_paymentDetails_fieldValue1&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(true).scrollable(false).selected(false).index(0)</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>ACCESSIBILITY</key>
          <value></value>
       </entry>
       <entry>
          <key>ID</key>
-         <value>com.jimac.tsceres_android:id/buttonRemoveItem</value>
+         <value>com.jimac.tsceres_android:id/et_paymentDetails_fieldValue1</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and @resource-id = 'com.jimac.tsceres_android:id/buttonRemoveItem' and (@text = '' or . = '')]</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
+         <key>NAME</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
          <value></value>
       </entry>
    </locatorCollection>

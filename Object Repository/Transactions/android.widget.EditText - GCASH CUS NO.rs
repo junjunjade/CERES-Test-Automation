@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.Button - OK</name>
+   <name>android.widget.EditText - GCASH CUS NO</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,32 +12,24 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.Button</value>
-      <webElementGuid>73bc6261-089b-47b7-8f6a-87c8c4100b26</webElementGuid>
+      <value>android.widget.EditText</value>
+      <webElementGuid>889ec3aa-3e0d-4306-b497-d05f766e2391</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>5280abde-4c60-4d74-9c8b-5c59942d290d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>OK</value>
-      <webElementGuid>b1747841-ce3f-4748-996d-21bcef1b899c</webElementGuid>
+      <value>0</value>
+      <webElementGuid>6793f862-d798-4aec-b4c4-c51c8999f89c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.jimac.tsceres_android:id/prompt_ok</value>
-      <webElementGuid>2270f751-bd24-40d9-a020-207af7d4607b</webElementGuid>
+      <value>com.jimac.tsceres_android:id/et_paymentDetails_fieldValue2</value>
+      <webElementGuid>b296b312-81a5-4f4b-a17d-190a151eaa53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>357c16a5-05cb-43bb-aceb-dbc7fa9d6c52</webElementGuid>
+      <webElementGuid>e1320c44-373e-4933-a334-285a9931289d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d24dff46-84ab-4724-906a-4b12cba3a079</webElementGuid>
+      <webElementGuid>c63da604-56ed-485b-a7f4-689e0cafd912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c5045045-a815-4ca7-ae2a-09a587f71287</webElementGuid>
+      <webElementGuid>49f0539e-18db-40c9-b9a8-3e2e65d406c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>668f0bb8-177d-423b-afd3-3443d3b513ab</webElementGuid>
+      <webElementGuid>7d12b7bc-3cde-421c-8058-51478baf7a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b2220ab3-497e-4f0b-8b9c-e37f2aad2183</webElementGuid>
+      <webElementGuid>0aff164e-a2e2-4f97-bbf2-f4a43bc530a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6c008ecb-e184-4ee7-bc90-c8a198dd87d7</webElementGuid>
+      <webElementGuid>0091046b-d4da-4e1d-9b2b-c1337a4d3152</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9e89a810-98c8-4839-a61c-b55a580421cf</webElementGuid>
+      <webElementGuid>d4dec315-0c5e-4b43-b9c1-da28587c0583</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,15 +93,15 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1cb402bb-17f8-4b8f-88e6-b8270a4c952b</webElementGuid>
+      <webElementGuid>f473d562-0699-4dc5-9b09-473c6477a3f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>c0711826-80fa-4b61-a66e-321382d697be</webElementGuid>
+      <value>true</value>
+      <webElementGuid>7f3cc7ef-b7de-4ab4-b489-9c3326b98011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>058d6d15-db1b-43a8-92c7-8da1be869398</webElementGuid>
+      <webElementGuid>d7bb104a-ed8e-455b-b873-f5304ff6d19a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,47 +117,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e27d36d6-10d4-4821-8717-2f95680df514</webElementGuid>
+      <webElementGuid>b34a2184-3a06-4638-8890-a855ae5645db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>643</value>
-      <webElementGuid>3ec81787-c7db-44fc-9c05-24512727f95a</webElementGuid>
+      <value>231</value>
+      <webElementGuid>51721eb8-f501-4197-a62b-cee95ca1db2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>415</value>
-      <webElementGuid>ec444e50-d15e-418f-b2fa-15e2468ac317</webElementGuid>
+      <value>202</value>
+      <webElementGuid>f41e9a65-434d-4154-88d0-c06e33f49df6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>264</value>
-      <webElementGuid>245d9134-d292-49d6-9c2b-9442e4870362</webElementGuid>
+      <value>1017</value>
+      <webElementGuid>f3b2dd27-add1-4329-b26c-84c8f12e747c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>48</value>
-      <webElementGuid>9a9cd4ec-454c-41ce-95c3-beac9fb95ae2</webElementGuid>
+      <value>54</value>
+      <webElementGuid>306e8a4f-999f-4f06-be0b-2b2db16e62f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[643,415][907,463]</value>
-      <webElementGuid>b2c1ea85-49c9-417e-bb70-d74a8efb30ba</webElementGuid>
+      <value>[231,202][1248,256]</value>
+      <webElementGuid>dceddde1-b0e0-4b98-ac0d-a9163da46261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,21 +165,29 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>42e8d305-0c7e-4e5d-a3a2-3683801d63ac</webElementGuid>
+      <webElementGuid>769bc7da-767b-491c-a1d7-51c57d04a944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>b342f16d-52c2-4fe3-9e70-a0f444d87ae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[2]</value>
-      <webElementGuid>e0386270-ff36-45e6-a0e6-afcea4af4dc8</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
+      <webElementGuid>2e0d0152-3130-4fd8-bd58-3a1f2782b7b1</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and (@text = 'OK' or . = 'OK') and @resource-id = 'com.jimac.tsceres_android:id/prompt_ok']</locator>
+   <locator>//*[@class = 'android.widget.EditText' and @resource-id = 'com.jimac.tsceres_android:id/et_paymentDetails_fieldValue2' and (@text = '' or . = '')]</locator>
    <locatorCollection>
       <entry>
          <key>CLASS_NAME</key>
-         <value>android.widget.Button</value>
+         <value>android.widget.EditText</value>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
@@ -199,11 +199,11 @@
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and (@text = 'OK' or . = 'OK') and @resource-id = 'com.jimac.tsceres_android:id/prompt_ok']</value>
+         <value>//*[@class = 'android.widget.EditText' and @resource-id = 'com.jimac.tsceres_android:id/et_paymentDetails_fieldValue2' and (@text = '' or . = '')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.Button[2]</value>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
@@ -211,7 +211,7 @@
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;OK&quot;).resourceId(&quot;com.jimac.tsceres_android:id/prompt_ok&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
+         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).resourceId(&quot;com.jimac.tsceres_android:id/et_paymentDetails_fieldValue2&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(0)</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
@@ -219,7 +219,7 @@
       </entry>
       <entry>
          <key>ID</key>
-         <value>com.jimac.tsceres_android:id/prompt_ok</value>
+         <value>com.jimac.tsceres_android:id/et_paymentDetails_fieldValue2</value>
       </entry>
       <entry>
          <key>IMAGE</key>

@@ -34,7 +34,7 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - Black Coffee'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - remove'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - REMOVE MENU ITEM'), 0)
 
 Mobile.closeApplication()
 

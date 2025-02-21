@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Attempt to Logout with an Existing Suspended Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a00923e-1116-4396-956a-7d04effa2e5a</testCaseGuid>
+</TestCaseEntity>
