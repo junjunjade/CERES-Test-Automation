@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Menu Items - NO CHECKOUT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91e5e0dd-6bb2-4ecd-a830-115c84330118</testCaseGuid>
+</TestCaseEntity>

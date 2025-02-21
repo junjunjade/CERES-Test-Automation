@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Void Transaction by Clicking on Logout Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f4f1bfa-f9ff-4a7b-b08c-aaae27d36cd1</testCaseGuid>
+</TestCaseEntity>

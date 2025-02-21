@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Toggle Next and Previous Buttons in Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b893d98-02cc-4624-ab3e-f19f03c8c7ce</testCaseGuid>
+</TestCaseEntity>
