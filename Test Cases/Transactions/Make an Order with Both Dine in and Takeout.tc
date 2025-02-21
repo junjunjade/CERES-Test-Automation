@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make an Order with Both Dine in and Takeout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5207d3fc-72fb-4c94-aebf-475d7a949321</testCaseGuid>
+</TestCaseEntity>

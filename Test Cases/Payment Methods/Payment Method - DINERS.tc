@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Payment Method - Cash</name>
+   <name>Payment Method - DINERS</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>689d0d2c-e10f-409a-836a-9716ccc497e8</testCaseGuid>
+   <testCaseGuid>f169bd98-5d83-4bd0-aaca-56cd1c745d22</testCaseGuid>
 </TestCaseEntity>

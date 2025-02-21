@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Handle Multiple Orders in One Session</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9e97ccb-a9ca-41d2-84e7-3d27df0d49b0</testCaseGuid>
+</TestCaseEntity>

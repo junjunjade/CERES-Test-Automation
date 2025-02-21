@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Change Quantity of a Menu Item</name>
+   <name>Navigate through all Payment Methods</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a6ebd492-b3a9-412d-928a-946228dd6418</testCaseGuid>
+   <testCaseGuid>6f8badf4-32dd-48bc-8727-a7903fb8ffa8</testCaseGuid>
 </TestCaseEntity>
