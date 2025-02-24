@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Checkout While Printer Turned Off</name>
+   <name>Attempt to Proceed into Payment Without Menu Items Added</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fc6e7c0b-998a-41bf-9247-37709ab97660</testCaseGuid>
+   <testCaseGuid>fa8c8a38-2719-43f5-9616-154407faf6b0</testCaseGuid>
 </TestCaseEntity>

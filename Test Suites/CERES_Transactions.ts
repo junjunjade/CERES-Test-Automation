@@ -26,6 +26,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>7d6a800c-0216-42fe-8ab9-fef752a897cf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Transactions/Attempt to Proceed into Payment Without Menu Items Added</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>f28835de-fed4-43e7-97db-8b2e3e531201</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
