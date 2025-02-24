@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discount - Subtotal Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f12f42e-db4c-484c-907e-6e261bc3a988</testCaseGuid>
+</TestCaseEntity>

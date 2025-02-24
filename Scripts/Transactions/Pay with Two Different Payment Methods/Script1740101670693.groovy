@@ -61,7 +61,7 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextVie
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SETTLEMENT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK - SETTLE TRANSACTION'), 0)
 
 Mobile.closeApplication()
 

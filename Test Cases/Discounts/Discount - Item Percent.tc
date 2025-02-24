@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discount - Item Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8383a9bf-ab27-4260-99c6-ef629fd60fe9</testCaseGuid>
+</TestCaseEntity>

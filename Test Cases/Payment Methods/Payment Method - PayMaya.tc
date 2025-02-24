@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - PayMaya</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b08e6dc-9ff4-4bc0-9ab9-57fb5f3936e9</testCaseGuid>
+</TestCaseEntity>

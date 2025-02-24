@@ -138,6 +138,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>ddc1b727-e879-4bcf-bad2-868176b81a0b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Transactions/Delivery - In house</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>5e6ce203-5d1e-4c20-b85b-faf84b870151</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

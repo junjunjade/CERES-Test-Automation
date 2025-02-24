@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discount - Subtotal Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>834fd3be-7ea3-4a59-9913-7b00e2048b7d</testCaseGuid>
+</TestCaseEntity>
