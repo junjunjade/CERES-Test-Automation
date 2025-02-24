@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Payment Method - VISA Debit</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>56cad24b-dc95-4ab6-ba61-8d2e1b849490</testCaseGuid>
-</TestCaseEntity>

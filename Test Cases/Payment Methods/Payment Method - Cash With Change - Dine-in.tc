@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - Cash With Change - Dine-in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7d9c05e-170f-4790-b315-73cd47e31de9</testCaseGuid>
+</TestCaseEntity>

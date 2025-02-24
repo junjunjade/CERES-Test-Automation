@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - VISA Credit - Dine-in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14aea626-d400-4fcb-acea-904cf0bc8d63</testCaseGuid>
+</TestCaseEntity>

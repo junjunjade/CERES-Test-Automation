@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - GCASH - Take-out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12c0ab2c-a8c4-4d94-90e2-81cc02bdb3ba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - Paypal - Take-out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f4d462e-6aaf-416b-a04a-e18572bb6afb</testCaseGuid>
+</TestCaseEntity>

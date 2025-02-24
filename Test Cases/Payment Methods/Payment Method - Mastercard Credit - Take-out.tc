@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - Mastercard Credit - Take-out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcdf1bfd-6e8a-4e1f-8cc0-1b390a1e5e56</testCaseGuid>
+</TestCaseEntity>

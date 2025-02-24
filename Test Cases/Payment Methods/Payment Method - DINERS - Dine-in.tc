@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - DINERS - Dine-in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f169bd98-5d83-4bd0-aaca-56cd1c745d22</testCaseGuid>
+</TestCaseEntity>

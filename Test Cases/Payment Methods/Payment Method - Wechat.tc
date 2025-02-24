@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Payment Method - Wechat</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>aaf80a6f-9611-4349-912e-f7072af7f7bf</testCaseGuid>
-</TestCaseEntity>

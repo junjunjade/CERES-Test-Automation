@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - Alipay - Dine-in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8ac3e4e-7f24-4381-9b1e-72edf3a2345b</testCaseGuid>
+</TestCaseEntity>

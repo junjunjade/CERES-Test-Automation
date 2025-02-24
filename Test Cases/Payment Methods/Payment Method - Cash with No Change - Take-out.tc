@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Method - Cash with No Change - Take-out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a5c7c0e-fbdf-495d-b3ec-ad3ea2b4bda9</testCaseGuid>
+</TestCaseEntity>
