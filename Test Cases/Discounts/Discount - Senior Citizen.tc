@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discount - Senior Citizen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6db35e2-7e3f-44bb-843b-09009c65eee9</testCaseGuid>
+</TestCaseEntity>

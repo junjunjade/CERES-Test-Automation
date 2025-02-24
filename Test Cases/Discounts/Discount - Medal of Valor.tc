@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discount - Medal of Valor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1cc0f5f-b1cf-4baf-baf2-cbe31cb928e1</testCaseGuid>
+</TestCaseEntity>

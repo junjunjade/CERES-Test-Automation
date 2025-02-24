@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discount - VAT Exempt Sale</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>966f560e-b5a9-4f29-b1d4-56f14703aca3</testCaseGuid>
+</TestCaseEntity>

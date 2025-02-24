@@ -33,7 +33,7 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - ADD ORDER SLIP'), 'Echo', 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT DELIVERY CODE'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - REMOVE ORDER SLIP'), 0)
 

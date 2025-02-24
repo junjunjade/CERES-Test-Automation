@@ -41,6 +41,6 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - SPECIAL INSTRUCTION'), 'less ice', 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT DELIVERY CODE'), 0)
 
 Mobile.closeApplication()
