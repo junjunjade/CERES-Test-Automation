@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Subtotal Amount Discount with No Menu Items Added</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0769843-4a4c-4a70-b1ce-e8a08dc5debf</testCaseGuid>
+</TestCaseEntity>

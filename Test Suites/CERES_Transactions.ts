@@ -148,7 +148,7 @@
       <guid>ddc1b727-e879-4bcf-bad2-868176b81a0b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Transactions/Delivery - In house</testCaseId>
+      <testCaseId>Test Cases/Transactions/Delivery - In-house</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

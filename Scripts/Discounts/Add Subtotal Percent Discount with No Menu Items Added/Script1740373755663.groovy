@@ -27,43 +27,11 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widg
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - POS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - BLACK COFFEE'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - Black Coffee'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - CHANGE QUANTITY'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 5'), 0)
-
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - DISCOUNT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - NEXT'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SUBTOTAL PERCENT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ATHLETE DISCOUNT'), 0)
-
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Name'), 'Lebron James', 0)
-
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - ID No'), 'B-01-12345-2', 0)
-
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - TIN'), '123456789', 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PAYMENT'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PAYMENT LOOKUP'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CASH'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 5'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 0'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 0'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SETTLEMENT'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK - SETTLE TRANSACTION'), 0)
+Mobile.delay(3)
 
 Mobile.closeApplication()
 

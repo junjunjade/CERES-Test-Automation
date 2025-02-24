@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Subtotal Percent Discount with No Menu Items Added</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9326c38b-ac81-4d70-953d-0f4235d534b8</testCaseGuid>
+</TestCaseEntity>

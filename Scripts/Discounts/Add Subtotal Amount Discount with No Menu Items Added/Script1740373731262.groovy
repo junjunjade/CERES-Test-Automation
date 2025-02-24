@@ -27,42 +27,11 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widg
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - POS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - BLACK COFFEE'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CHICKEN'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - BUFFALO'), 0)
-
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - DISCOUNT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SC DISCOUNT'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SUBTOTAL AMOUNT'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Name'), 'Juan One', 0)
-
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - ID No'), '1046', 0)
-
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - TIN'), '123456789', 0)
-
-Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Business Style'), 'Sample Business', 
-    0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PAYMENT'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PAYMENT LOOKUP'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CASH'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 2'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 0'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.TextView - 0'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - SETTLEMENT'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK - SETTLE TRANSACTION'), 0)
+Mobile.delay(3)
 
 Mobile.closeApplication()
 

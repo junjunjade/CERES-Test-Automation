@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Delivery - In house</name>
+   <name>Add Item Amount Discount With No Menu Item Selected</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>98b76f1e-8008-4cf0-87fc-24f97b0322fd</testCaseGuid>
+   <testCaseGuid>ee4b062f-bbf6-470b-ab08-d61ccae61b6d</testCaseGuid>
 </TestCaseEntity>

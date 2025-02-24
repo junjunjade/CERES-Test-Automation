@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Item Percent Discount With No Menu Item Selected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb21ce4f-8053-44eb-892a-308fdfbfb0d4</testCaseGuid>
+</TestCaseEntity>
