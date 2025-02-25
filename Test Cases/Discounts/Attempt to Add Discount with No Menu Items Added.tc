@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Attempt to Add Discount with No Menu Items Added</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81e1d328-72ca-48de-94aa-74450ded644a</testCaseGuid>
+</TestCaseEntity>

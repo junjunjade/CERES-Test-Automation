@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Menu Items on Dine-in Mode then Switch to Delivery</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11601c6e-cea3-4672-8f2a-75e09c5c17ed</testCaseGuid>
+</TestCaseEntity>

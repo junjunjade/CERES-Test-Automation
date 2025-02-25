@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View EOD - Z Reading</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f241eb0b-b249-4404-8231-73618c2cddfb</testCaseGuid>
+</TestCaseEntity>

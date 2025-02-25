@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>31653059-4558-4705-ae11-24d6820e5ae8</webElementGuid>
+      <webElementGuid>3b37ccf3-945d-481f-9aab-224f14b79f46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>043c02a6-f324-42fe-8914-96c89f909805</webElementGuid>
+      <webElementGuid>c029b719-4457-448b-a4c6-46030d5c7be2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>118be012-c3d7-4385-aac1-41f3f498c742</webElementGuid>
+      <webElementGuid>60df853e-a025-44cc-9c1b-75b4308b13e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android:id/tv_num5</value>
-      <webElementGuid>de1aa946-67f5-4afd-9b65-6d2039f8d398</webElementGuid>
+      <webElementGuid>4854fd93-1583-4e72-8a29-e1ba02e57042</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>b1efd548-4be8-4f83-ba0d-162af1739757</webElementGuid>
+      <webElementGuid>a6c1fb76-f0e4-4b00-87e1-7c6db2ff3867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e385b8d0-4408-4ff9-9795-7311e476b2e8</webElementGuid>
+      <webElementGuid>5c4a3cbc-c8d5-4310-9626-5062fa7fbae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6f0d5aad-f591-4045-ac97-805dfde016f5</webElementGuid>
+      <webElementGuid>bba9d0ba-d1d3-4aef-9251-1fa35f626e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c90a0123-436f-46b9-9e0f-9427eaf03345</webElementGuid>
+      <webElementGuid>25bf9acf-5157-4264-90c4-b79b157063ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>aab01419-a6df-43a1-a801-a17f62b1110c</webElementGuid>
+      <webElementGuid>20fd992b-03a8-424b-8702-32d3197c81c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bcf47bbf-511a-4370-abc7-b070b103d4b8</webElementGuid>
+      <webElementGuid>fd4316f1-61a1-46e1-9770-b00d0043bd02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>48ce167a-a56e-4107-afd3-8e7b87d6aa5c</webElementGuid>
+      <webElementGuid>9e96470a-54a8-475f-b9cc-dd8f549a0a72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>471bc8bf-aae0-4607-a8dc-ac188a47f468</webElementGuid>
+      <webElementGuid>70ec00d5-ef2f-4e0d-8aa8-29ca73bfde00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5dcea3a4-ce33-4ac7-8833-1b99ada7d897</webElementGuid>
+      <webElementGuid>672b00a8-43eb-4fc5-bb58-4d04cbf5a7cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a481058f-076f-4fbc-ade4-269518aa991f</webElementGuid>
+      <webElementGuid>bfc65097-d011-4eec-a761-bf05fa285bd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4cb5cbae-94bd-4b73-a98b-57a8f591bc92</webElementGuid>
+      <webElementGuid>dc721c9e-3c1c-43a7-ba35-448582de136a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>x</name>
       <type>Main</type>
       <value>350</value>
-      <webElementGuid>956afab4-66e4-45c1-8c25-fdada99d9d77</webElementGuid>
+      <webElementGuid>57cf810e-fb76-4497-acd0-4383b4829989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>y</name>
       <type>Main</type>
       <value>523</value>
-      <webElementGuid>3fa67518-b6d1-4de8-90df-252c10064378</webElementGuid>
+      <webElementGuid>8775119a-0232-4721-8b02-886c75f36942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>width</name>
       <type>Main</type>
       <value>140</value>
-      <webElementGuid>602741b0-be27-4f83-b166-6205e81f375e</webElementGuid>
+      <webElementGuid>76d50d15-15a4-4f57-a8a6-86654cd64a27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>height</name>
       <type>Main</type>
       <value>58</value>
-      <webElementGuid>e3a123e1-6649-4699-863f-66b23ca2df80</webElementGuid>
+      <webElementGuid>c568794e-5ffb-489a-b2da-99175c0e51b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[350,523][490,581]</value>
-      <webElementGuid>12b9f1be-5a37-48d8-9e85-8bdb3b0cf638</webElementGuid>
+      <webElementGuid>0bedb360-a07f-46ef-aa32-f57ed35a8020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>92ca9710-a41a-4c57-b530-3ef8bd0c1eb4</webElementGuid>
+      <webElementGuid>fc0cb63b-2873-450f-a1ed-dd96eb8027f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,20 +181,16 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.TextView[2]</value>
-      <webElementGuid>30814a5d-03ee-40cf-81fd-508ce827ed40</webElementGuid>
+      <webElementGuid>05bada01-6010-4a9d-ad12-2ddde3e86b0c</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.TextView' and (@text = '5' or . = '5') and @resource-id = 'com.jimac.tsceres_android:id/tv_num5']</locator>
    <locatorCollection>
       <entry>
-         <key>ID</key>
-         <value>com.jimac.tsceres_android:id/tv_num5</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-      </entry>
-      <entry>
          <key>CLASS_NAME</key>
          <value>android.widget.TextView</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
       </entry>
       <entry>
          <key>CUSTOM</key>
@@ -211,20 +207,24 @@
          <key>IOS_CLASS_CHAIN</key>
       </entry>
       <entry>
-         <key>NAME</key>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-      </entry>
-      <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
          <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;5&quot;).resourceId(&quot;com.jimac.tsceres_android:id/tv_num5&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
       </entry>
       <entry>
+         <key>ID</key>
+         <value>com.jimac.tsceres_android:id/tv_num5</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
          <key>ACCESSIBILITY</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

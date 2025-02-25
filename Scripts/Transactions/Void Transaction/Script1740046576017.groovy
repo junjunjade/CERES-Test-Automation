@@ -35,6 +35,8 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - NEXT'), 0)
 
+Mobile.delay(3)
+
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - VOID TRANSACTION'), 0)
 
 Mobile.closeApplication()

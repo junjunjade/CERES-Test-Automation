@@ -27,18 +27,6 @@ Mobile.setEncryptedText(findTestObject('Object Repository/Transactions/android.w
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - POS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - BLACK COFFEE'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PASTA'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CARBONARA'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - NEXT'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUSPEND TRANSACTION'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OKAY - SUSPEND TRANSACTION'), 0)
-
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - RESUME SUSPENDED TRANSACTION'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OKAY - SUSPEND TRANSACTION'), 0)

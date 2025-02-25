@@ -35,5 +35,7 @@ Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.Edi
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT DELIVERY CODE'), 0)
 
+Mobile.delay(2)
+
 Mobile.closeApplication()
 

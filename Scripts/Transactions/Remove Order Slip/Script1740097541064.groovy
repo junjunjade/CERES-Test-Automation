@@ -35,6 +35,8 @@ Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.Edi
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT DELIVERY CODE'), 0)
 
+Mobile.delay(3)
+
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - REMOVE ORDER SLIP'), 0)
 
 Mobile.closeApplication()

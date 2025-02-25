@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Attempt to Add More Than One Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c61af872-cfb9-42b5-8a53-1b02ae1e0f8d</testCaseGuid>
+</TestCaseEntity>

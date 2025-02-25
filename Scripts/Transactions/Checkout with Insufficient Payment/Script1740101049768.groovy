@@ -47,5 +47,7 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextVie
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SETTLEMENT'), 0)
 
+Mobile.delay(2)
+
 Mobile.closeApplication()
 

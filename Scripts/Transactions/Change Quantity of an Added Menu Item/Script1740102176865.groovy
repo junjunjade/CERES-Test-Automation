@@ -31,6 +31,8 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - Black Coffee'), 0)
 
+Mobile.delay(3)
+
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - CHANGE QUANTITY'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 3'), 0)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Print EOD - Z Reading</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e48573b-270b-4f77-9db7-d7aec1bef4d0</testCaseGuid>
+</TestCaseEntity>

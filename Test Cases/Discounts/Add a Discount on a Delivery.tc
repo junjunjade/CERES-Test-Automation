@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add a Discount on a Delivery</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdd9e17d-3a9f-44e5-8a97-263b939a90f0</testCaseGuid>
+</TestCaseEntity>
