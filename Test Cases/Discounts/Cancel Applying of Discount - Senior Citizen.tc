@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel Applying of Discount - Senior Citizen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74c8b94d-3534-477b-aa90-d69f83fa0713</testCaseGuid>
+</TestCaseEntity>

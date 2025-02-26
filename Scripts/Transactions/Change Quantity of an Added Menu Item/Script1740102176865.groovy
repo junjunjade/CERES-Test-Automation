@@ -31,11 +31,29 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - Black Coffee'), 0)
 
-Mobile.delay(3)
+Mobile.delay(2)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - CHANGE QUANTITY'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 3'), 0)
+
+Mobile.delay(2)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PAYMENT'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PAYMENT LOOKUP'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CASH'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 3'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 3'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 0'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SETTLEMENT'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK - SETTLE TRANSACTION'), 0)
 
 Mobile.closeApplication()
 

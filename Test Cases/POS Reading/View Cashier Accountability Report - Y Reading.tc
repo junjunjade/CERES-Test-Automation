@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Cashier Accountability Report - Y Reading</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca84d803-f330-4da1-ad2b-7cb740245a4c</testCaseGuid>
+</TestCaseEntity>

@@ -40,6 +40,27 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>e40042c3-e970-4910-90f4-7f2bc2a65846</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/Login Test - Incomplete Credentials - No Usercode Input</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5e87a2c3-a0fb-457d-8c16-c9621032540e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/Login Test - Incomplete Credentials - No Password Input</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>207d6e12-0c14-4634-8e02-49d9d64f87d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/Login Test - Incomplete Credentials - No Usercode and Password Inputs</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>21204b8e-a0db-4a7f-a4b5-5ffb41a9e1b4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

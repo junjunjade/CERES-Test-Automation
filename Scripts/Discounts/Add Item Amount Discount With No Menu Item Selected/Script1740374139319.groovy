@@ -17,7 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Ritch\\Desktop\\Echo Test\\APKs\\TSCeres 2025\\16.0.0.0.40.91.apk', true)
+String apkPath = GlobalVariable.APK_PATH;
+Mobile.startApplication(apkPath, true);
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - BLACK COFFEE'), 0)
 
@@ -25,7 +26,7 @@ Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - D
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - ITEM AMOUNT'), 0)
 
-Mobile.delay(3)
+Mobile.delay(2)
 
 Mobile.closeApplication()
 

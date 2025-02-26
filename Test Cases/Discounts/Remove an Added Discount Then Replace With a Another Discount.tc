@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove an Added Discount Then Replace With a Another Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc49bc5a-a50e-47b4-80cd-ac956ec4cae9</testCaseGuid>
+</TestCaseEntity>

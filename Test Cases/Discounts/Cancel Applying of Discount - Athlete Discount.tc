@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel Applying of Discount - Athlete Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bdc6d1a-800d-43da-b803-664ddbba9176</testCaseGuid>
+</TestCaseEntity>

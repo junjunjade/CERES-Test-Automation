@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Attempt to Apply Discount to an Order Lower Than the Discount Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57787d4b-a2fc-4680-9955-eda95cd86c09</testCaseGuid>
+</TestCaseEntity>
