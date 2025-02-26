@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Button</value>
-      <webElementGuid>bd55fc26-5235-4870-8255-f58dfadbec27</webElementGuid>
+      <webElementGuid>4f883992-e9ad-4b52-9d2c-206f7d710e5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>851f7785-0078-470e-8bc9-92893c829468</webElementGuid>
+      <webElementGuid>e52d85cc-6f59-43ac-8064-c76992b39e3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MASTER CARD DEBIT</value>
-      <webElementGuid>db65a684-98cb-482d-ab47-c708433252fe</webElementGuid>
+      <webElementGuid>fb9218ed-bdcf-496d-8985-3864c6064571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>0dbe1a29-33cb-4634-98e2-7d9525845a01</webElementGuid>
+      <webElementGuid>c4266bf1-fed2-4dea-8afb-d5044d786011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>427d4785-b020-489f-bc4f-47b17f5a626b</webElementGuid>
+      <webElementGuid>b1eea272-0be4-47e6-bac3-b48377248959</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>09d4eebd-1c9c-4332-accc-52fac5dec368</webElementGuid>
+      <webElementGuid>78aac17e-c3a1-49b8-b660-c39ec7b1b7e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8a57908f-0664-4579-b35d-bb02a675a125</webElementGuid>
+      <webElementGuid>35da2a22-3b5d-4f1e-9a2f-a1aff23bc36a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2b074467-16ca-46e3-baa1-bf554cf41b47</webElementGuid>
+      <webElementGuid>c9c96a47-4c98-4e81-b554-29d2fab5fd9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ac041ac5-e094-4832-93b0-02d8c284d511</webElementGuid>
+      <webElementGuid>e7f8dc74-3ca7-4b48-bd09-76ce5d5aca7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d832d0e9-b083-463e-ae03-624b4e9fd178</webElementGuid>
+      <webElementGuid>952801a2-e452-4279-a8c4-98e893e8a9b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>89f11e95-60c6-467f-86fb-ba7e1d600658</webElementGuid>
+      <webElementGuid>afb4d198-c615-4b47-964d-8e2d2fd8bcec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>87c35a1a-04a1-4976-944d-18de3035ccde</webElementGuid>
+      <webElementGuid>439f1b6f-0670-4936-93e8-9a74ee861475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>97989f2f-5af1-46db-aaab-9d1663700234</webElementGuid>
+      <webElementGuid>17429d82-9929-42c5-83a7-9de2a16e50f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>696ad752-11d2-4da1-a40f-755d5e697084</webElementGuid>
+      <webElementGuid>4bc254ea-bf5b-426a-8cd3-6e822dfe0d09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>963</value>
-      <webElementGuid>6c788da0-4966-46a1-9396-cfc4a0c490c3</webElementGuid>
+      <webElementGuid>1bec694b-2412-4c82-b84f-c9089a610e2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>213</value>
-      <webElementGuid>14a830e6-5f4a-4683-a0bc-910ab58465cc</webElementGuid>
+      <webElementGuid>24449b71-34f1-4312-9d0d-8455455f131a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>139</value>
-      <webElementGuid>ee217530-db99-4f4b-805d-f671252ef823</webElementGuid>
+      <webElementGuid>af357e60-6aac-4b54-83c0-76bbda134e93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>171</value>
-      <webElementGuid>9b593678-dfcb-4a0a-88d1-f59acdbbb6ef</webElementGuid>
+      <webElementGuid>2e8d56a8-e226-4d16-a942-6c0948d1cb77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[963,213][1102,384]</value>
-      <webElementGuid>2eff0b06-d5cc-4577-bd3b-f14191c4f420</webElementGuid>
+      <webElementGuid>8b5551ec-212d-456c-8635-05157dc3ab51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b64dc556-d577-4b49-81ff-f732d9597b14</webElementGuid>
+      <webElementGuid>b8cd0475-5967-489f-9bf2-1f3544ca1fa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,57 +173,49 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[2]/android.widget.FrameLayout[2]/android.widget.RelativeLayout[1]/android.widget.Button[3]</value>
-      <webElementGuid>21ea67b3-b171-4f46-964c-26fdc9933d72</webElementGuid>
+      <webElementGuid>d0329fd2-480a-4cb9-83fc-72dd7f27741a</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.Button' and (@text = 'MASTER CARD DEBIT' or . = 'MASTER CARD DEBIT')]</locator>
    <locatorCollection>
       <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.Button</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
+         <key>NAME</key>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
          <value>//*[@class = 'android.widget.Button' and (@text = 'MASTER CARD DEBIT' or . = 'MASTER CARD DEBIT')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[2]/android.widget.FrameLayout[2]/android.widget.RelativeLayout[1]/android.widget.Button[3]</value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
+         <key>ACCESSIBILITY</key>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
          <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;MASTER CARD DEBIT&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(2)</value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value></value>
+         <key>CLASS_NAME</key>
+         <value>android.widget.Button</value>
       </entry>
       <entry>
-         <key>ID</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[2]/android.widget.FrameLayout[2]/android.widget.RelativeLayout[1]/android.widget.Button[3]</value>
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value></value>
+         <key>ID</key>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

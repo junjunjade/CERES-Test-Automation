@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E Journal Viewer - Print Receipt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0a367c7-958f-4875-9a9e-18ba8e90876d</testCaseGuid>
+</TestCaseEntity>

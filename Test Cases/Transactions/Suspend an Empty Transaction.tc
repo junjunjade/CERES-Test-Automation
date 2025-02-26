@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Suspend an Empty Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a06c14fe-6237-4a3e-9d59-f5478ccb0c1c</testCaseGuid>
+</TestCaseEntity>

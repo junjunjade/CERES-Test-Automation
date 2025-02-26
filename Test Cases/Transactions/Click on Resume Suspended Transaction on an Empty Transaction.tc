@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click on Resume Suspended Transaction on an Empty Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71716b47-f24c-4680-b246-1879996d3da3</testCaseGuid>
+</TestCaseEntity>
