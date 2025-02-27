@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Refund an Already Refunded Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25192e64-f03d-40f4-8673-cc4fce5bf4e5</testCaseGuid>
+</TestCaseEntity>

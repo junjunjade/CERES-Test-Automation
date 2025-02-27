@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Print with No Selected POS Reading</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba312438-1246-4c4f-8ce1-644fa8328c9e</testCaseGuid>
+</TestCaseEntity>

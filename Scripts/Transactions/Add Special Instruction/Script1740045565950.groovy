@@ -43,4 +43,20 @@ Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.Edi
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SUBMIT DELIVERY CODE'), 0)
 
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PAYMENT'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PAYMENT LOOKUP'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CASH'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 1'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 1'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 0'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SETTLEMENT'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK - SETTLE TRANSACTION'), 0)
+
 Mobile.closeApplication()
