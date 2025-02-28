@@ -53,4 +53,3 @@ Mobile.tap(findTestObject('Object Repository/Payment Methods/android.widget.Butt
 Mobile.tap(findTestObject('Object Repository/Payment Methods/android.widget.Button - OK - SETTLE TRANSACTION'), 0)
 
 Mobile.closeApplication()
-

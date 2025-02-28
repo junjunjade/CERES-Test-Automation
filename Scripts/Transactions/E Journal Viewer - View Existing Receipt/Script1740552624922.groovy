@@ -17,7 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Ritch\\Desktop\\Echo Test\\APKs\\TSCeres 2025\\16.0.0.0.40.91.apk', true)
+String apkPath = GlobalVariable.APK_PATH;
+Mobile.startApplication(apkPath, true);
 
 Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Usercode'), '000000', 0)
 
@@ -43,4 +44,3 @@ Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.Edi
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH - EJOURNAL VIEWER'), 0)
 
 Mobile.closeApplication()
-

@@ -33,4 +33,3 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.closeApplication()
-

@@ -40,13 +40,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>177b8fc1-25b7-499f-a1f9-8df06017d8fa</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Discounts/Discount - Medal of Valor</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>98171b9d-48ef-426e-9986-3dbbccae32c0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -61,17 +54,17 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>347aaba7-4bf5-4420-8697-d2a3d7482176</guid>
+      <guid>920ac1f1-3bf2-4372-8f36-e38e3260f51f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Discounts/Cancel Applying of Discount - Athlete Discount</testCaseId>
+      <testCaseId>Test Cases/Discounts/Discount - Athlete Discount</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fedce8df-16cf-4e82-bb6f-73566381e638</guid>
+      <guid>177b8fc1-25b7-499f-a1f9-8df06017d8fa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Discounts/Cancel Applying of Discount - Medal of Valor</testCaseId>
+      <testCaseId>Test Cases/Discounts/Discount - Medal of Valor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -85,14 +78,14 @@
       <guid>2237d63c-dce8-4741-b20d-1ff28e5f5a1a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Discounts/Remove an Added Discount Then Replace With a Another Discount</testCaseId>
+      <testCaseId>Test Cases/Discounts/Remove an Added Discount then Replace with Another Discount</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1aa8d05b-39bc-40e2-814b-90d2176fb461</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Discounts/Add Item Amount Discount With No Menu Item Selected</testCaseId>
+      <testCaseId>Test Cases/Discounts/Add Item Amount Discount with No Menu Item Selected</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
