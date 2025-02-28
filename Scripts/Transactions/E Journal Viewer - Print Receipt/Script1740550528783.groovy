@@ -32,7 +32,7 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Transaction number'), '103', 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH - EJOURNAL VIEWER'), 0)
 
 Mobile.pressBack()
 

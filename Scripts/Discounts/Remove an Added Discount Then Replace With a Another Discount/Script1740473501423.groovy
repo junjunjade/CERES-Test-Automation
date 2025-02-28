@@ -52,7 +52,7 @@ Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditTe
 Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Business Style'), 'Sample Business', 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK - DISCOUNT INFO'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PAYMENT'), 0)
 

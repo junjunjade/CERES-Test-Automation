@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.Button - OK</name>
+   <name>android.widget.Button - SHOW DATE PICKER - refund</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -13,31 +13,31 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Button</value>
-      <webElementGuid>bfcbdc61-e51b-498c-aa0f-d2cf319e0b4d</webElementGuid>
+      <webElementGuid>c4778c05-4097-457f-81ba-e06c5d30a2e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>3d5be844-8911-4fe7-9b56-2644c1b9c48d</webElementGuid>
+      <value>4</value>
+      <webElementGuid>e9c59688-1ee4-49b7-93e7-26579ff83f91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>OK</value>
-      <webElementGuid>b22f4eeb-8c88-4c22-b6fa-7207c53e78fd</webElementGuid>
+      <value>SHOW DATE PICKER</value>
+      <webElementGuid>77236907-eaa1-470b-94ee-0d193f4a65e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>android:id/button1</value>
-      <webElementGuid>55ab6165-8dbc-4e74-900c-1c732c218133</webElementGuid>
+      <value>com.jimac.tsceres_android:id/btnShowDatePicker</value>
+      <webElementGuid>a67225fb-8fc4-4e90-9419-4e973b7eceaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>ee28f4ad-99f0-4fc5-ac4b-d957e2063d6b</webElementGuid>
+      <webElementGuid>3da37a49-a733-478b-908e-1cb1fc9bbe86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8d80b23a-c062-4bda-8e10-4328720e8553</webElementGuid>
+      <webElementGuid>260f4a2f-c25d-4bb0-9b75-9466379dfb64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fb08774d-054c-45e1-9447-9d1194c6e312</webElementGuid>
+      <webElementGuid>77e0afc8-d26f-4fa0-a2b4-aee2cbe67e91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5b96212d-18ba-49fc-ac95-6beed7fa7ad1</webElementGuid>
+      <webElementGuid>e72a07b3-7feb-4de7-bd2a-50469d0358cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d8ff6021-84fc-45f0-bb55-62ee3c64e630</webElementGuid>
+      <webElementGuid>a46cdaea-7bc5-4198-8756-c7c68aa1fa0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>838a7eee-efdf-4246-9051-c0a11e8481a1</webElementGuid>
+      <webElementGuid>55f1b53b-48e8-4ee7-bf7a-5d479188728a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5f25537b-e2a8-49a4-a3fe-ed1b21d45ad7</webElementGuid>
+      <webElementGuid>50ccf35d-023e-4152-9a3c-ec1a14ee57ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b3a3f48d-49d4-4bf5-b410-a82e0db2860e</webElementGuid>
+      <webElementGuid>f480ab33-e8a0-47a8-b2ac-de3f598403ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>49653630-1194-4461-82e5-d074d8355976</webElementGuid>
+      <webElementGuid>832f7232-8080-4edd-9c96-fe976e2d6a54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1df07659-e92b-4aec-868f-83762b4abe4e</webElementGuid>
+      <webElementGuid>9b4f831e-34de-4929-a803-c7aba03fc77e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,47 +125,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1e90b6c8-e6da-43c0-bb10-db74ecff0b9b</webElementGuid>
+      <webElementGuid>d9b73360-2f10-4558-955e-8358a9794efd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>827</value>
-      <webElementGuid>bfee8de0-6c6f-42dc-b7ba-05d1e52cf513</webElementGuid>
+      <value>618</value>
+      <webElementGuid>63f0652c-d9e5-4d8e-ad2b-6bc67009e5b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>468</value>
-      <webElementGuid>321a53fa-19f9-41ad-b845-86d605405785</webElementGuid>
+      <value>203</value>
+      <webElementGuid>a9352208-c4c6-4e3b-8f78-0217a12131b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>64</value>
-      <webElementGuid>39741403-86dc-44be-9604-9a863d353acd</webElementGuid>
+      <value>314</value>
+      <webElementGuid>d255335f-f939-4479-8800-bbc8fc109689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>54</value>
-      <webElementGuid>47a2af67-f2de-463e-bc41-af36d6753ce0</webElementGuid>
+      <value>48</value>
+      <webElementGuid>b7366d0f-63b9-4931-8a64-d4ea00be9e78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[827,468][891,522]</value>
-      <webElementGuid>dd7ab644-0bec-4df7-a1fc-495731308f09</webElementGuid>
+      <value>[618,203][932,251]</value>
+      <webElementGuid>a5a80c4f-5f94-4c0b-8b5d-58712b4b3a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,65 +173,58 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f5641b1d-a3df-4e50-8ba5-b2068d4f075c</webElementGuid>
+      <webElementGuid>ea49683c-25fe-4dbf-8d13-44cd95eb01e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.DatePicker[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.Button[2]</value>
-      <webElementGuid>f0ff5e9b-5c16-4407-8302-10414943e7aa</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.Button[1]</value>
+      <webElementGuid>008da6f1-54cd-40b7-840f-36d9382f2547</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and (@text = 'OK' or . = 'OK') and @resource-id = 'android:id/button1']</locator>
+   <locator>//*[@class = 'android.widget.Button' and (@text = 'SHOW DATE PICKER' or . = 'SHOW DATE PICKER') and @resource-id = 'com.jimac.tsceres_android:id/btnShowDatePicker']</locator>
    <locatorCollection>
-      <entry>
-         <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and (@text = 'OK' or . = 'OK') and @resource-id = 'android:id/button1']</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
-      </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>android.widget.Button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.DatePicker[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.Button[2]</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.Button[1]</value>
       </entry>
       <entry>
          <key>CUSTOM</key>
-         <value></value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value></value>
+         <key>ANDROID_VIEWTAG</key>
       </entry>
       <entry>
-         <key>ID</key>
-         <value>android:id/button1</value>
+         <key>NAME</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;OK&quot;).resourceId(&quot;android:id/button1&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
+         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;SHOW DATE PICKER&quot;).resourceId(&quot;com.jimac.tsceres_android:id/btnShowDatePicker&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(4)</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.Button' and (@text = 'SHOW DATE PICKER' or . = 'SHOW DATE PICKER') and @resource-id = 'com.jimac.tsceres_android:id/btnShowDatePicker']</value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.jimac.tsceres_android:id/btnShowDatePicker</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

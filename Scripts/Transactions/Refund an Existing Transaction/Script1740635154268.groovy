@@ -30,15 +30,19 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - REFUND'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SHOW DATE PICKER'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SHOW DATE PICKER - refund'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.view.View - 26'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK - DATE PICKER REFUND'), 0)
 
 Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Invoice number'), '102', 0)
 
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH REFUND'), 0)
+
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CONFIRM REFUND'), 0)
+
+Mobile.delay(5)
 
 Mobile.closeApplication()
 

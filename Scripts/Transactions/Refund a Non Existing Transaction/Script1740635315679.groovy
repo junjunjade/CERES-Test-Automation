@@ -34,5 +34,7 @@ Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.Edi
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH'), 0)
 
+Mobile.delay(5)
+
 Mobile.closeApplication()
 

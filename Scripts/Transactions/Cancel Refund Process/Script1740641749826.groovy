@@ -21,26 +21,20 @@ Mobile.startApplication('C:\\Users\\Ritch\\Desktop\\Echo Test\\APKs\\TSCeres 202
 
 Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Usercode'), '000000', 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/Transactions/android.widget.EditText - Password'), 'tzH6RvlfSTg=',
-	0)
+Mobile.setEncryptedText(findTestObject('Object Repository/Transactions/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 
+    0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - POS'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - NEXT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - E-JOURNAL VIEWER'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - REFUND'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Transaction number'), '2', 0)
+Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Invoice number'), '102', 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH - EJOURNAL VIEWER'), 0)
+Mobile.pressBack()
 
-Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - 2 - EJOURNAL INPUT'), '3', 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH - EJOURNAL VIEWER'), 0)
-
-Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - 3 - EJOURNAL INPUT'), '8', 0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SEARCH - EJOURNAL VIEWER'), 0)
+Mobile.pressBack()
 
 Mobile.closeApplication()
 

@@ -25,6 +25,8 @@ Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditTe
 Mobile.setEncryptedText(findTestObject('Object Repository/Discounts/android.widget.EditText - Password'), 'tzH6RvlfSTg=',
 	0)
 
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - POS'), 0)
+
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - BLACK COFFEE'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - CHICKEN'), 0)
@@ -42,7 +44,7 @@ Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditTe
 Mobile.setText(findTestObject('Object Repository/Discounts/android.widget.EditText - Business Style'), 'Sample Business', 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK'), 0)
+Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - OK - DISCOUNT INFO'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Discounts/android.widget.Button - PAYMENT'), 0)
 

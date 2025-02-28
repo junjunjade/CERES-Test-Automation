@@ -49,9 +49,9 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CASH'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 1'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 2'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 1'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 2'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.TextView - 0'), 0)
 
