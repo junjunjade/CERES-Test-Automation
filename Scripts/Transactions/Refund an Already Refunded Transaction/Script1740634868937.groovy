@@ -33,6 +33,8 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - SHOW DATE PICKER - refund'), 0)
 
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.ImageButton - PREV DATE REFUND'), 0)
+
 Mobile.tap(findTestObject('Object Repository/Transactions/android.view.View - 27 - DATE PICKER REFUND'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - OK - DATE PICKER REFUND'), 0)

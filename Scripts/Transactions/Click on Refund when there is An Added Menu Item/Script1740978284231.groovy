@@ -20,20 +20,13 @@ import org.openqa.selenium.Keys as Keys
 String apkPath = GlobalVariable.APK_PATH;
 Mobile.startApplication(apkPath, true);
 
-Mobile.setText(findTestObject('Object Repository/Transactions/android.widget.EditText - Usercode'), '000000', 0)
-
-Mobile.setEncryptedText(findTestObject('Object Repository/Transactions/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 
-    0)
-
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - POS'), 0)
-
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - BLACK COFFEE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - PASTA'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - NEXT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CARBONARA'), 0)
+Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - REFUND'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - DELIVERY'), 0)
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.closeApplication()
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click on Refund when there is An Added Menu Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>faa785a1-57cd-4f40-8383-dbb3b870da42</testCaseGuid>
+</TestCaseEntity>
