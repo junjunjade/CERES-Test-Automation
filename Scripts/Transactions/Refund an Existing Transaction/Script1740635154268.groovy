@@ -41,7 +41,7 @@ Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Transactions/android.widget.Button - CONFIRM REFUND'), 0)
 
-Mobile.delay(5)
+Mobile.delay(3)
 
 Mobile.closeApplication()
 
